@@ -15,7 +15,7 @@ This defines the alignment along the main axis. It helps distribute extra free s
 }
 ```
 
-<v-clicks v-click-hide="4">
+<v-clicks v-click-hide>
 
 - `flex-start` (default): items are packed toward the start of the flex-direction.
 - `flex-end`: items are packed toward the end of the flex-direction.
