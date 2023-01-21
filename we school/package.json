@@ -14,5 +14,8 @@
   },
   "script": {
     "dev": "slidev"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.29.2"
   }
 }
