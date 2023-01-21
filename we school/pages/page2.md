@@ -8,7 +8,7 @@ They had to use a combination of:
 - `position`ing,
 - and other hacks to create the layouts they wanted.
 
- But then, in 2017, a new technology was introduced to the world of web design - <span style="color:#3C79F5">**CSS Flexbox**</span>.
+ But then, in 2017, a new technology was introduced to the world of web design - <span class="blue">**CSS Flexbox**</span>.
 
 ---
 
@@ -34,5 +34,5 @@ Note: Flexbox layout is most appropriate to the components of an application, an
 <style>
   .slidev-layout h1 + p {
     opacity: 1;
-}
+  }
 </style>
