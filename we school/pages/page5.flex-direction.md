@@ -6,8 +6,9 @@
 This property establishes the main-axis, thus defining the direction flex items are placed in the flex container. Flexbox is (aside from optional wrapping) a single-direction layout concept. Think of flex items as primarily laying out either in horizontal rows or vertical columns.
 
 
-```css {all|2}
+```css {all|3}
 .container {
+  display: flex;
   flex-direction: row;
 }
 ```

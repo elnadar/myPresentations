@@ -35,3 +35,23 @@ src:  ./pages/page4.md
 ---
 src:  ./pages/page5.flex-direction.md
 ---
+
+---
+src:  ./pages/page6.flex-wrap.md
+---
+
+---
+src:  ./pages/page7.flex-flow.md
+---
+
+---
+src:  ./pages/page8.justify-content.md
+---
+
+---
+src:  ./pages/page9.align-items.md
+---
+
+---
+src:  ./pages/page10.align-content.md
+---
