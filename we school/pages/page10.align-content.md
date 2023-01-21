@@ -48,7 +48,7 @@ This aligns a flex container’s lines within when there is extra space in the c
 </div>
 <div>
 
-<img class="h-100 m-auto" src="assets/align-content.svg">
+<img class="h-100 m-auto" src="/assets/align-content.svg">
 
 </div>
 </div>

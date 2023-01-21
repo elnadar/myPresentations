@@ -3,7 +3,7 @@
 <div grid="~ cols-2 gap-2">
 <div>
 
-<img class="h-100 m-auto" src="assets/align-items.svg">
+<img class="h-100 m-auto" src="/assets/align-items.svg">
 
 </div>
 <div>

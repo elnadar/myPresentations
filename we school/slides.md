@@ -1,5 +1,6 @@
 ---
 theme: seriph
+download: true
 ---
 # Flex-Box
 
