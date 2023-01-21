@@ -27,3 +27,11 @@ src:  ./pages/page2.md
 ---
 src:  ./pages/page3.md
 ---
+
+---
+src:  ./pages/page4.md
+---
+
+---
+src:  ./pages/page5.flex-direction.md
+---
