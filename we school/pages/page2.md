@@ -1,3 +1,8 @@
+---
+layout: image-right
+image: ../assets/cover.svg
+---
+
 # Introduction
 ...  
 
@@ -11,6 +16,9 @@ They had to use a combination of:
  But then, in 2017, a new technology was introduced to the world of web design - <span class="blue">**CSS Flexbox**</span>.
 
 ---
+layout: image-left
+image: ../assets/cover.svg
+---
 
 # Introduction
 ...  
@@ -18,7 +26,6 @@ They had to use a combination of:
 With Flexbox, designers were finally able to easily control the alignment, direction, and distribution of elements within a container. They could create flexible and responsive designs with ease, and make their websites look great on any device. 
 
 _"And so, Flexbox became a game changer in the web design industry, and is now an essential tool for any modern web designer."_
-
 
 ---
 
